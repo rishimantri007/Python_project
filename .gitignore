@@ -1,0 +1,16 @@
+# Ignore virtual environment
+venv/
+
+# Ignore Python cache files
+__pycache__/
+
+# Ignore IDE/project settings
+.vscode/
+.idea/
+
+# Ignore OS junk
+.DS_Store
+
+# Ignore sensitive or generated files
+secret.key
+/Users/rishi/Desktop/Workspace/Python_project/data*.txt
